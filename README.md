@@ -1,2 +1,2 @@
 # pregrad-projects
-this repository will conatin all projects i need to submit to pregrad
+this repository will conatin the minor project i have to submit to pregrad.
